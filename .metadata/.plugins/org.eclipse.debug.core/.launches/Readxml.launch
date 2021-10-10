@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.php.phpunit.PHPUnitLaunchConfigurationType">
+    <stringAttribute key="ATTR_FILE" value=""/>
+    <stringAttribute key="ATTR_FILE_FULL_PATH" value=""/>
+    <stringAttribute key="ZEND_PHPUNIT_TESTS_CONTAINER_TYPE" value="SCRIPT_PROJECT"/>
+    <booleanAttribute key="firstLineBreakpoint" value="false"/>
+    <stringAttribute key="org.eclipse.php.debug.core.PHP_Project" value="Readxml"/>
+    <booleanAttribute key="org.eclipse.php.debug.core.RunWithDebugInfo" value="false"/>
+    <booleanAttribute key="org.eclipse.php.phpunit.code_coverage" value="false"/>
+    <stringAttribute key="org.eclipse.php.phpunit.container" value=""/>
+    <stringAttribute key="org.eclipse.php.phpunit.elementPath" value="\Readxml"/>
+    <stringAttribute key="org.eclipse.php.phpunit.file" value="/Readxml"/>
+    <booleanAttribute key="org.eclipse.php.phpunit.is_suite" value="true"/>
+    <booleanAttribute key="org.eclipse.php.phpunit.logXml" value="false"/>
+    <stringAttribute key="org.eclipse.php.phpunit.phpunitPath" value=""/>
+    <stringAttribute key="org.eclipse.php.phpunit.project" value="Readxml"/>
+    <stringAttribute key="org.eclipse.php.phpunit.runType" value="PHAR_EXECUTION_TYPE"/>
+</launchConfiguration>

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\XAMPP\htdocs\watchstore\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4093363781.index
+\store\src\main\java
+D:\XAMPP\htdocs\watchstore\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1004342373.index
+\watchservletjsp\src\main\java

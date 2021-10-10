@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;store/LoginDao.java&apos; to &apos;LoginDao.jsp&apos;" description="Rename resource &apos;LoginDao.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="LoginDao.java" name="LoginDao.jsp" stamp="1627459206237" updateReferences="true"/>&#x0A;<refactoring accessors="true" comment="Delete element from project &apos;store&apos;&#x0D;&#x0A;- Original project: &apos;store&apos;&#x0D;&#x0A;- Original element: &apos;account.jsp&apos;" description="Delete element" element1="account.jsp" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1627460310675" subPackages="false" version="1.0"/>
+</session>

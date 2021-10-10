@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xproducts.xsl"?>
+<order>
+<order1>
+ <product id="watch1">
+  <price>5000</price>
+  <customer>KARTHIK.R</customer>
+  <quantity>2</quantity>
+  <ratings>4</ratings>
+ 
+ </product>
+  </order1>
+  <order2>
+ <product id="watch2">
+  <price>5000</price>
+  <customer>Dhinesh</customer>
+  <quantity>2</quantity>
+  <ratings>4</ratings>
+ 
+ </product>
+ </order2>
+ <order3>
+ <product id="watch3">
+  <price>5990</price>
+  <customer>Gowtham</customer>
+  <quantity>3</quantity>
+  <ratings>4</ratings>
+ 
+ </product>
+ </order3>
+ <order4>
+ <product id="watch4">
+  <price>4999</price>
+  <customer>Sneha</customer>
+  <quantity>2</quantity>
+  <ratings>5</ratings>
+ 
+ </product>
+ </order4>
+ <order5>
+<product id="watch5">
+  <price>3999</price>
+  <customer>Monish</customer>
+  <quantity>1</quantity>
+  <ratings>4</ratings>
+ 
+ </product>
+ </order5>
+ </order>

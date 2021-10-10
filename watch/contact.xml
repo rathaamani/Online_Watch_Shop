@@ -1,0 +1,31 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<description>
+   <b>Are you a customer who needs help? That's what the TEAM is for.</b>
+</description>
+<details>
+<name>
+  <p style="color:blue;" ><i> <b>GIFT SHOP </b></i> </p>
+  <p te>A typical online store enables the customer to browse the firm's range of products and services, view photos or images of the products, along with information about the product specifications, features and prices. Online stores usually enable shoppers to use "search" features to find specific models, brands or items.</p>
+</name>
+<contact>
+<p style="color:green;">CONTACT:<i> <b>0413-445433</b></i> </p>
+</contact>
+You're wondering about an order,our products, or our website, shoot them an email at <b> gift@gmail.com</b>.
+</details>
+</br>
+</br>
+
+<socialmedia>
+<div class=logo>
+  <div class="row">
+ <div class="column">
+<a href=""><img src="upload\Instagram-Logo.png"></a>
+</div> 
+<div class="column">
+<a href=""><img src="upload\Facebook-logo.png"></a>
+</div> 
+</div>
+</div>
+</socialmedia>
